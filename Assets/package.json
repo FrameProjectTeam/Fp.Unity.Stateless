@@ -1,0 +1,11 @@
+{
+  "name": "com.fp.stateless",
+  "version": "1.0.0",
+  "displayName": "Stateless",
+  "description": "Stateless(Unity port)",
+  "unity": "2019.1",
+  "keywords": ["State-Machine", "Stateless"],
+  "author": { "name": "Yevhenii Vitiuk", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "license": "MIT",
+  "dependencies": {}
+}
